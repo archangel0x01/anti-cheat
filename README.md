@@ -1,6 +1,6 @@
 # Anti-Cheat
 
-This repository demonstrates a rough concept of an anti-cheat system that continuously scans for windows using content protection APIs. The goal is to create an app that stays pinned on top of the screen, displaying continuous updates to help improve cheat detection.
+This repository demonstrates a rough concept of an anti-cheat system that continuously scans for windows using content protection APIs. The goal is to create an app that stays pinned on top of the screen, displaying continuous updates to help improve cheat detection. Works against cheating apps which are otherwise transparent to screen-recording apps.
 
 ### Implementation
 
